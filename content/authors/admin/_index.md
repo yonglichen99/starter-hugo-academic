@@ -4,7 +4,7 @@ role: PhD Candidate in Economics
 avatar_filename: avatar.jpg
 bio: My research interests include Public Economics
 interests:
-  - Public Economics   Labor Economics
+  - Public Economics;     Labor Economics
 social:
   - icon: envelope
     icon_pack: fas
