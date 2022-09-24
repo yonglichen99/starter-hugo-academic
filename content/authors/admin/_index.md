@@ -2,12 +2,9 @@
 title: Yongli Chen
 role: PhD Candidate in Economics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Public Economics
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Public Economics   Labor Economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I﻿ am a PhD Candidate at University of California, Riverside. My research interests mainly lie in the intersection fields of Public Economic and Labor Economics, with a regional focus on China. My research aims at understanding how public policies and institutions affect people’s welfare and a series of socioeconomic outcomes.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
