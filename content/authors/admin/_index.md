@@ -29,4 +29,4 @@ highlight_name: true
 ---
 I﻿ am a PhD Candidate at the University of California, Riverside. My research interests mainly lie in the intersection fields of Public Economic and Labor Economics, with a regional focus on China. My research aims at understanding how public policies and institutions affect people’s welfare and a series of socioeconomic outcomes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
