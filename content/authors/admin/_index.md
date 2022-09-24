@@ -8,10 +8,7 @@ interests:
   - Labor Economics
   - Environmental Economics
   - Development Economics
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+social: []
 organizations:
   - name: University of California, Riverside
     url: https://www.ucr.edu/
