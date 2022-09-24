@@ -2,7 +2,7 @@
 title: Yongli Chen
 role: PhD Candidate in Economics
 avatar_filename: avatar.jpg
-bio: My research interests include Public Economics
+bio: ""
 interests:
   - Public Economics
   - Labor Economics
